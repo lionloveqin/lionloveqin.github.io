@@ -4,7 +4,7 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: LION的技术博客
-description: 生命不止，奋斗不息
+description: 纸上得来终觉浅，绝知此事要躬行
 theme: midnight
 #disqusname: lionloveqin
 
