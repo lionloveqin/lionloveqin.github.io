@@ -1,2 +1,2 @@
 # lionloveqin.github.io
-This is the technical blog of lion.
+My personal technical blog.
