@@ -5,8 +5,8 @@ safe: false
 highlighter: pygments
 title: LION的技术博客
 description: 生命不止，奋斗不息
-theme: leep-day
-disqusname: lionloveqin
+theme: midnight
+#disqusname: lionloveqin
 
 # theme can be: hack, leep-day, merlot, midnight, minimal, modernist, slate, time-machine
 # those themes are all come from GitHub Pages Themes
